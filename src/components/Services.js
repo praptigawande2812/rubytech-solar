@@ -9,29 +9,24 @@ const Services = () => {
       description: 'Professional installation of high-quality solar panels for residential and commercial properties with expert guidance and support.'
     },
     {
-      icon: '🔋',
-      title: 'Battery Storage Solutions',
-      description: 'Advanced battery storage systems to store solar energy for use during peak hours and power outages.'
+      icon: '🔥',
+      title: 'Solar Hot Water Solution',
+      description: 'Efficient solar water heating systems that utilize solar energy to provide hot water for residential and commercial use, reducing energy costs significantly.'
     },
     {
-      icon: '🏠',
-      title: 'Residential Solar Systems',
-      description: 'Customized solar solutions designed for homes to reduce electricity bills and carbon footprint.'
+      icon: '🚜',
+      title: 'Agriculture Solar Pump Solution',
+      description: 'Solar-powered water pump systems designed for agricultural use, providing reliable irrigation solutions while reducing operational costs and dependency on grid electricity.'
     },
     {
       icon: '🏢',
-      title: 'Commercial Solar Projects',
-      description: 'Large-scale solar installations for businesses and industries to maximize energy savings and sustainability.'
+      title: 'Commercial and Industrial Solar Projects',
+      description: 'Large-scale solar installations for businesses and industries to maximize energy savings, reduce carbon footprint, and achieve sustainability goals.'
     },
     {
       icon: '🔧',
-      title: 'Maintenance & Support',
-      description: 'Comprehensive maintenance services and ongoing support to ensure optimal performance of your solar system.'
-    },
-    {
-      icon: '💡',
-      title: 'Energy Consultation',
-      description: 'Expert consultation to assess your energy needs and design the most efficient solar solution for your property.'
+      title: 'Maintenance and Support',
+      description: 'Comprehensive maintenance services and ongoing support to ensure optimal performance and longevity of your solar system with regular inspections and repairs.'
     }
   ];
 

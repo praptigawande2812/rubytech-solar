@@ -12,8 +12,7 @@ const Home = () => {
             <h2 className="home-subtitle">Leading Solar Energy Solutions</h2>
             <p className="home-description">
               Welcome to Rubytech Solar Power, where we provide sustainable and 
-              efficient solar energy solutions for your home and business. Our experienced 
-              team is dedicated to helping you harness the power of the sun with reliable, 
+              efficient solar energy solutions for your home and business. We are dedicated to helping you harness the power of the sun with reliable, 
               cost-effective solar installations.
             </p>
             <div className="home-buttons">
@@ -25,7 +24,7 @@ const Home = () => {
                 Contact Us
               </a>
             </div>
-            <p className="home-hours">Open 7 days a week</p>
+            {/* <p className="home-hours">Open 7 days a week</p> */}
           </div>
           <div className="home-image">
             <img src={heroImage} alt="Rubytech Solar Power" className="hero-image" />

@@ -25,11 +25,10 @@ const Footer = () => {
             <h4 className="footer-heading">Our Services</h4>
             <ul className="footer-links">
               <li>Solar Panel Installation</li>
-              <li>Battery Storage Solutions</li>
-              <li>Residential Solar Systems</li>
-              <li>Commercial Solar Projects</li>
-              <li>Maintenance & Support</li>
-              <li>Energy Consultation</li>
+              <li>Solar Hot Water Solution</li>
+              <li>Agriculture Solar Pump Solution</li>
+              <li>Commercial and Industrial Solar Projects</li>
+              <li>Maintenance and Support</li>
             </ul>
           </div>
 
@@ -56,7 +55,7 @@ const Footer = () => {
               </a>
             </div>
             <div className="contact-item">
-              <span className="contact-icon">🕒</span>
+              {/* <span className="contact-icon">🕒</span> */}
               {/* <div className="contact-text">
                 Open 7 days a week
               </div> */}
